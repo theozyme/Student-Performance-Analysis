@@ -1,4 +1,4 @@
-
+<a href="https://www.kaggle.com/code/ozancakir/student-performance-analysis-eda">Notebook linki</a>
 
 <h1>Öğrenci Sınav Başarısı Veri Seti Analizi</h1>
 
